@@ -1,6 +1,6 @@
 # RecipeApp
 
-> A simple Nuxtjs Recipe App
+> A simple Nuxtjs Recipe Application
 
 ## Build Setup
 
