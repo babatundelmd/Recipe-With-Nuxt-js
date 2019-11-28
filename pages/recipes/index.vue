@@ -27,7 +27,6 @@ export default {
 <style scoped>
 .recipes {
   display: flex;
-  flex-flow: column;
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
