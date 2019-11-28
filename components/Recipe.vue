@@ -18,11 +18,16 @@ export default {
 .recipe {
   box-sizing: border-box;
   width: 280px;
-  padding: 8px;
+  padding: 20px;
   border: 1px solid #ccc;
   box-shadow: 0 2px 2px #eee;
   margin: 10px;
   border: none;
+}
+
+.recipe h1,
+p {
+  padding-top: 10px;
 }
 
 .thumbnail {
@@ -30,5 +35,10 @@ export default {
   background-size: cover;
   width: 100%;
   height: 200px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
 }
 </style>
