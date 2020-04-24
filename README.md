@@ -1,4 +1,4 @@
-# RecipeApp
+# Recipe App
 
 > A simple Nuxtjs Recipe Application
 
